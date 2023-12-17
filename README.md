@@ -1,5 +1,5 @@
-![Header](./header.png)
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nazım Çimen
+![Header](./github_header.png)
+Welcome ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) to my Account
 ===================================================================================================================================
 
 Flutter Developer
@@ -27,7 +27,7 @@ Flutter Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
