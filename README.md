@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I am currently enhancing my skills in **Flutter**
 
 - 🌱 I’m currently learning **Firebase**
 
