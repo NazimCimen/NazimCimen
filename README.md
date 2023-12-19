@@ -1,14 +1,42 @@
 ![Header](./github_header.png)
 
+Hi 👋 My name is Nazım Çimen
+============================
+
+Hello! I am a 4th-year computer engineering student at Inönü University. I develop applications using Flutter. You are welcome to explore the weather and pharmacy locator apps in my profile, and feel free to benefit from them. You can also contact me for your feedback.
+* 🔭 I am currently enhancing my skills in **Flutter**
+* 🚀  I'm currently working on [Event Application](http://github.com/NazimCimen/flutter_event_app)
+* 💬 Ask me about **Kotlin,Flutter**
+* ✉️  You can contact me at [cimennazim.27@gmail.com](mailto:cimennazim.27@gmail.com)
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-- 🔭 I am currently enhancing my skills in **Flutter**
+### Skills
 
-- 🌱 I’m currently learning **Firebase**
 
-- 💬 Ask me about **Kotlin,Flutter**
+<p align="left">
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-- 📫 How to reach me **cimennazim.27@gmail.com**
+### Tools
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="vscode logo" /></a>
+  <a href="https://developer.android.com/studio?hl=tr" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="androidstudio logo" /></a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="36" height="36" alt="slack logo" /></a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,14 +45,8 @@
 <a href="https://youtube.com/@NazmCimen?si=lp2iw-8I_f9altd3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmcimen" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Top Repositories:</h3>
-<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-<br /><br />
+### Top Languages
+<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimCimen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_animated_login_signup_responsive_ui_design" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_animated_login_signup_responsive_ui_design&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazimcimen&show_icons=true&locale=en&layout=compact" alt="nazimcimen" /></p>
