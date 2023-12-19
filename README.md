@@ -11,7 +11,7 @@ Hello! I am a 4th-year computer engineering student at Inönü University. I dev
 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 ### Skills
@@ -47,6 +47,6 @@ Hello! I am a 4th-year computer engineering student at Inönü University. I dev
 
 ### Top Languages
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimCimen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimCimen&locale=en&hide_title=false&layout=compact&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=181824&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
