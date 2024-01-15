@@ -9,12 +9,9 @@ Hello! I am a 4th-year computer engineering student at Inönü University. I dev
 * 💬 Ask me about **Kotlin,Flutter**
 * ✉️  You can contact me at [cimennazim.27@gmail.com](mailto:cimennazim.27@gmail.com)
 
-### Top Repositories
+<b>Top Repositories</b>
 
-<div width="100%" align="center">
-    <a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=0b0a0a&hide_border=false&border_color=66b5f7&locale=en" /></a>
-    <a href="https://github.com/NazimCimen/flutter_weather_forecast_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_weather_forecast_app&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=0b0a0a&hide_border=false&border_color=66b5f7&locale=en" /></a>
-  </div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NazimCimen/flutter_duty_pharmacy_app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_duty_pharmacy_app&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/NazimCimen/flutter_animated_login_signup_responsive_ui_design" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NazimCimen&repo=flutter_animated_login_signup_responsive_ui_design&title_color=ffffff&text_color=3382ed&icon_color=facc15&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 ### Skills
