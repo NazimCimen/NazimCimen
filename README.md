@@ -5,7 +5,7 @@ Welcome! 🤗
 
 Hello! I am a 4th-year computer engineering student at Inönü University. I develop applications using Flutter. You are welcome to explore the weather and pharmacy locator apps in my profile, and feel free to benefit from them. You can also contact me for your feedback.
 * 🔭 I am currently enhancing my skills in **Flutter**
-* 🚀 I'm currently working on [Event Application](http://github.com/NazimCimen/flutter_event_app)
+* 🚀 I'm currently working on my own projects
 * 💬 Ask me about **Kotlin,Flutter**
 * ✉️  You can contact me at [cimennazim.27@gmail.com](mailto:cimennazim.27@gmail.com)
 
