@@ -36,7 +36,7 @@ Hello! I am a 4th-year computer engineering student at Inönü University. I dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nazim-cimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nazim-cimen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nazim-cimen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazim-cimen/" height="30" width="40" /></a>
 <a href="https://instagram.com/nazim.cmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazim.cmn" height="30" width="40" /></a>
 <a href="https://youtube.com/@NazmCimen?si=lp2iw-8I_f9altd3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmcimen" height="30" width="40" /></a>
 </p>
