@@ -1,22 +1,26 @@
 ![HEADER](https://github.com/NazimCimen/NazimCimen/blob/main/Digital%20System%20Analyst.gif)
 
 ### Hi there! 👋 I'm **Nazım**  
-Passionate about creating impactful applications with **Flutter** and exploring innovative solutions in mobile development. 🚀  
-
-- 💻 Currently, I am focusing on developing my own projects 
-- 💡 I love sharing knowledge and helping others—feel free to ask me about anything related to **Flutter** or **Kotlin**!
+I am a Software Engineer specializing in modern , scalable mobile development and  backend systems. I build high-quality, fast, and production-ready MVPs using clean architecture principles.
+- 📱 Mobile Development: Experienced in crafting robust cross-platform applications with Flutter.
+- ⚙️ Backend & Infrastructure: Skilled in building APIs and services using FastAPI, Supabase, and Firebase (Auth, Firestore, Storage, Messaging).
+- 🚀 I focus on delivering solutions that are scalable, maintainable, and user-centric
+- 💬 I enjoy sharing knowledge—feel free to reach out about Flutter, Kotlin, backend design, or anything about building products from scratch.
 - 📫 **Let's connect!**
   
 Visit my website : https://www.nazimcimen.com/ 
-Feel free to reach out via email: [cimennazim.27@gmail.com](mailto:cimennazim.27@gmail.com)  
+Feel free to reach out via email: [cimennazim.27@gmail.com](mailto:cimennazim.dev@gmail.com)  
 I'm always open to exciting collaborations and meaningful discussions! 😊  
 ### Skills
-
-
+https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg
 <p align="left">
-     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
- <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastApi" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>  
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -24,7 +28,6 @@ I'm always open to exciting collaborations and meaningful discussions! 😊
 
 ### Tools
 <p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" /></a>
