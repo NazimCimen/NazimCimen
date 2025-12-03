@@ -12,7 +12,6 @@ Visit my website : https://www.nazimcimen.com/
 Feel free to reach out via email: [cimennazim.27@gmail.com](mailto:cimennazim.dev@gmail.com)  
 I'm always open to exciting collaborations and meaningful discussions! 😊  
 ### Skills
-https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg
 <p align="left">
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
