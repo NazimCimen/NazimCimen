@@ -45,8 +45,5 @@ I'm always open to exciting collaborations and meaningful discussions! 😊
 <a href="https://youtube.com/@NazmCimen?si=lp2iw-8I_f9altd3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazmcimen" height="30" width="40" /></a>
 </p>
 
-### Top Languages
-<div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazimCimen&locale=en&hide_title=false&layout=compact&title_color=66b5f7&text_color=3382ed&icon_color=facc15&bg_color=0b0a0a&card_width=320&langs_count=5&theme=dark&hide_border=false&border_color=66b5f7&order=2" height="150" alt="languages graph"  />
-</div>
+
 
