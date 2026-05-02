@@ -2,11 +2,11 @@
 
 ### Hi there! 👋 I'm **Nazım**  
 I am a Software Engineer specializing in modern , scalable mobile development and  backend systems. I build high-quality, fast, and production-ready MVPs using clean architecture principles.
-- 📱 Mobile Development: Experienced in crafting robust cross-platform applications with Flutter.
-- ⚙️ Backend & Infrastructure: Skilled in building APIs and services using FastAPI, Supabase, and Firebase (Auth, Firestore, Storage, Messaging).
-- 🚀 I focus on delivering solutions that are scalable, maintainable, and user-centric
-- 💬 I enjoy sharing knowledge—feel free to reach out about Flutter, Kotlin, backend design, or anything about building products from scratch.
-- 📫 **Let's connect!**
+-  Mobile Development: Experienced in crafting robust cross-platform applications with Flutter.
+-  Backend & Infrastructure: Skilled in building APIs and services using FastAPI, Supabase, and Firebase (Auth, Firestore, Storage, Messaging).
+-  I focus on delivering solutions that are scalable, maintainable, and user-centric
+-  I enjoy sharing knowledge—feel free to reach out about Flutter, Kotlin, backend design, or anything about building products from scratch.
+-  **Let's connect!**
   
 Visit my website : https://www.nazimcimen.com/ 
 Feel free to reach out via email: [cimennazim.27@gmail.com](mailto:cimennazim.dev@gmail.com)  
